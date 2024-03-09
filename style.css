@@ -1,0 +1,27 @@
+
+.a{
+   width: 500px;
+   height: 500px ;
+   background-color: #FF7F50;
+}
+.b{
+  width: 250px;
+  height: 250px;
+  background-color: #90EE90;
+}
+.c{
+  color: #FFFFFFFF;
+  background-color: red;
+  font-size: 25px; font-family: monospace;
+}
+.d{
+  width: 50vw;
+   height: 50vh;
+    background-color: #0088ff;
+}
+.e{
+  width: 50vw;
+   height: 50%;
+   background-color: rgb(255, 0, 0);
+}
+
